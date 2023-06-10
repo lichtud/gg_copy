@@ -1,3 +1,3 @@
-FROM ghcr.io/lichtud/gpt:latest
+FROM ghcr.io/lichtud/gg_copy:latest
 
 ENTRYPOINT ["/entrypoint.sh"]
